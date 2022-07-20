@@ -1,0 +1,39 @@
+@media screen and (max-width: 844px) {
+    h1 {
+      grid-column: 3/-1;
+    }
+
+    h3 {
+      grid-column: 3/-1;
+    }
+    .letras-erradas-container {
+      grid-column: 3/-1;
+      font-size: 20px;
+    }
+
+    .palavra-secreta-container {
+      grid-column: 3/-1;
+    }
+
+    .button {
+      grid-column: 2/-1;
+    }
+    
+    .page-info {
+      grid-column: 3/-1;
+    }
+
+    .a-git {
+      grid-column:3/4;
+      margin-right: auto;
+  }
+  
+  .a-lkd {
+      grid-column: 4/5;
+      margin-right: auto;
+  }
+
+    input {
+      grid-column: 2/-1;
+    }   
+ }
